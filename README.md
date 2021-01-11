@@ -1,3 +1,45 @@
+# This is smart movie table which includes paggination,Movie sorting,Filtering.I have used Bootstrap,Lodash,React Router package,Axios techniques to develop this.The way of downloading and run the system in a local machine is mentioned below.
+
+/Step 1:
+git clone [repository url]
+
+//Step 2:
+cd [local repository]
+
+//Step 3:
+//Check package.json file and ensure scripts are notated as below:
+
+"scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+
+
+//Step 4: install node packages
+npm install
+
+//Step 5: run in local server
+npm start
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
