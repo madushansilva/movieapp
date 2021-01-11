@@ -1,8 +1,10 @@
 # This is smart movie table which includes paggination,Movie sorting,Filtering.I have used Bootstrap,Lodash,React Router package,Axios techniques to develop this.The way of downloading and run the system in a local machine is mentioned below.
 
-/Step 1:
+//Step 1:
 git clone [repository url]
+
 example:
+
 git clone https://github.com/madushansilva/movieapp.git
 
 //Step 2:
@@ -21,10 +23,14 @@ example : cd movieapp
   },
 
 
-//Step 4: install node packages
+//Step 4:
+
+install node packages
 npm install
 
-//Step 5: run in local server
+//Step 5:
+
+run in local server
 npm start
 
 
