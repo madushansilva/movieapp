@@ -2,9 +2,13 @@
 
 /Step 1:
 git clone [repository url]
+example:
+git clone https://github.com/madushansilva/movieapp.git
 
 //Step 2:
 cd [local repository]
+
+example : cd movieapp
 
 //Step 3:
 //Check package.json file and ensure scripts are notated as below:
